@@ -12,3 +12,7 @@
 
 ## [Powerful Command Line Applications in Go](Golang/Powerful-Command-Line-Applications-in-Go.pdf)
 ![Powerful Command Line Applications in Go](https://github.com/AliiAhmadi/Golang-and-Software-engineering-Books/assets/107758775/9f349ee4-745b-4bf3-952b-9f9d153adb87)
+
+
+## [Learning Go](Golang/Learning_Go.pdf)
+![Learning Go](https://github.com/AliiAhmadi/Golang-and-Software-engineering-Books/assets/107758775/3a5b2b95-9ff5-4ab8-9789-86b7d4888a5e)
