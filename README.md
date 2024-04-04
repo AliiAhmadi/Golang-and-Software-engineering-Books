@@ -8,3 +8,7 @@
 
 ## [Go Cookbook](Golang/Go_Cookbook.pdf)
 ![Go Cookbook](https://github.com/AliiAhmadi/Golang-and-Software-engineering-Books/assets/107758775/636c2933-404b-45d5-bb43-1554e856734b)
+
+
+## [Powerful Command Line Applications in Go](Golang/Powerful-Command-Line-Applications-in-Go.pdf)
+![Powerful Command Line Applications in Go](https://github.com/AliiAhmadi/Golang-and-Software-engineering-Books/assets/107758775/9f349ee4-745b-4bf3-952b-9f9d153adb87)
