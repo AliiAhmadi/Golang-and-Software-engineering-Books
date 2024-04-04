@@ -16,3 +16,7 @@
 
 ## [Learning Go](Golang/Learning_Go.pdf)
 ![Learning Go](https://github.com/AliiAhmadi/Golang-and-Software-engineering-Books/assets/107758775/3a5b2b95-9ff5-4ab8-9789-86b7d4888a5e)
+
+
+## [Introducing Go](Golang/Introducing_Go.pdf)
+![Introducing Go](https://github.com/AliiAhmadi/Golang-and-Software-engineering-Books/assets/107758775/82aee051-cd35-40bb-ad7d-4029c381dc60)
