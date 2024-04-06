@@ -20,3 +20,7 @@
 
 ## [Introducing Go](Golang/Introducing_Go.pdf)
 ![Introducing Go](https://github.com/AliiAhmadi/Golang-and-Software-engineering-Books/assets/107758775/82aee051-cd35-40bb-ad7d-4029c381dc60)
+
+ 
+ ## [Get Programming with Go](Golang/Get_Programming_with_Go.pdf)
+![Get Programming with Go](https://github.com/AliiAhmadi/Golang-and-Software-engineering-Books/assets/107758775/307f4dd3-78cd-45ae-9522-f4e43e1f64e6)
