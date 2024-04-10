@@ -24,3 +24,11 @@
  
  ## [Get Programming with Go](Golang/Get_Programming_with_Go.pdf)
 ![Get Programming with Go](https://github.com/AliiAhmadi/Golang-and-Software-engineering-Books/assets/107758775/307f4dd3-78cd-45ae-9522-f4e43e1f64e6)
+
+
+ ## [API Foundations in Go](Golang/API_Foundations_in_Go.pdf)
+![Screenshot_20240410_164810](https://github.com/AliiAhmadi/Golang-and-Software-engineering-Books/assets/107758775/b2cc796f-8fd7-4f07-9d9f-3f6b36eee380)
+
+
+ ## [RabbitMQ Layout Basic Structure and Topology for Applications](Software_Engineering/RabbitMQ_Layout_Basic_Structure_and_Topology_for_Applications.pdf)
+ ![Screenshot_20240410_164913](https://github.com/AliiAhmadi/Golang-and-Software-engineering-Books/assets/107758775/d80eafb8-69ef-4f42-879e-acd101646cb1)
